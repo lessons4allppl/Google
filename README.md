@@ -1,1 +1,1 @@
-<button><a href="www.google.com">Hi</a></button>
+<button onclick="window.location.href='https://www.google.com'">open google</button>

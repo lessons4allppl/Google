@@ -20,6 +20,6 @@
     <li><a href="https://www.mojeek.com">Mojeek</a></li>
     <li><a href="https://metager.org">MetaGer</a></li>
     <li><a href="https://www.ask.com">Ask</a></li>
-    <li><a href="chrome://settings">Ask</a></li>
+    <li><a href="chrome://settings">settings</a></li>
    
 
